@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.7.2-ppt DokuWiki" -->
+<?xml-stylesheet href="http://potsdamcoop.com/wiki/lib/exe/css.php?s=feed" type="text/css"?>
+<rdf:RDF
+    xmlns="http://purl.org/rss/1.0/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel rdf:about="http://potsdamcoop.com/wiki/feed.php">
+        <title>Potsdam Co-op Wiki</title>
+        <description></description>
+        <link>http://potsdamcoop.com/wiki/</link>
+        <image rdf:resource="http://potsdamcoop.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
+       <dc:date>2018-01-19T13:45:03+00:00</dc:date>
+        <items>
+            <rdf:Seq>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=history&amp;rev=1502968812&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=section1&amp;rev=1498677159&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=section2&amp;rev=1498677397&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=section3&amp;rev=1498678951&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=section4&amp;rev=1498749972&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=section5&amp;rev=1502285072&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=sidebar&amp;rev=1504702691&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=special_notices&amp;rev=1504703377&amp;do=diff"/>
+                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=start&amp;rev=1507304023&amp;do=diff"/>
+            </rdf:Seq>
+        </items>
+    </channel>
+    <image rdf:about="http://potsdamcoop.com/wiki/lib/tpl/dokuwiki/images/favicon.ico">
+        <title>Potsdam Co-op Wiki</title>
+        <link>http://potsdamcoop.com/wiki/</link>
+        <url>http://potsdamcoop.com/wiki/lib/tpl/dokuwiki/images/favicon.ico</url>
+    </image>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-17T11:13:13+00:00</dc:date>
+        <title>bylaws</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff</link>
+        <description>Bylaws, Effective February 2013 - as approved at the February 7, 2013 Annual Membership Meeting.</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=history&amp;rev=1502968812&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-17T11:20:12+00:00</dc:date>
+        <title>history</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=history&amp;rev=1502968812&amp;do=diff</link>
+        <description>The Potsdam Co-op has come a long way since its beginning as a Buying Club in 1972. The Co-op has been dedicated to meeting the community's need for specialty and whole foods ever since it opened its retail doors in 1973. As a consumer cooperative, The Potsdam Co-op exists for the benefit of the people who use it.</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-10T12:42:52+00:00</dc:date>
+        <title>principals</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff</link>
+        <description>The Seven Cooperative Principals
+
+Cooperatives around the world generally operate according to the same core principles and
+values, adopted by the International Cooperative Alliance in 1995. The International Cooperative
+Alliance is a global membership association of co-ops and co-op support organizations.
+Cooperatives trace the roots of these principles to the first modern cooperative founded in
+Rochdale, England in 1844.</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=section1&amp;rev=1498677159&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-28T19:12:39+00:00</dc:date>
+        <title>section1</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=section1&amp;rev=1498677159&amp;do=diff</link>
+        <description>Section 1
+
+Board /Staff Phone &amp; Address List
+
+	*  Board Roster
+
+Board Calendar
+
+	*  Board Calendar
+
+Board Minutes From Previous Two Meetings
+
+	*  05-2017
+	*  03-2017
+
+Current Budget
+
+	*  2017 Budget
+
+Action Plan
+
+	*  2017 Action Plan
+
+Bylaws
+
+	*  Bylaws (amended Feb. 2017)
+
+Mission Statement
+
+The Potsdam Consumer Cooperative Mission
+
+The Potsdam Co-op is owned and operated by its members and is dedicated to meeting the community’s need for specialty and whole foods at the lowest possible cost.  …</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=section2&amp;rev=1498677397&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-28T19:16:37+00:00</dc:date>
+        <title>section2</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=section2&amp;rev=1498677397&amp;do=diff</link>
+        <description>Section 2
+
+Board Policy Manual (BPM)
+
+	*  BPM v2017.04.19</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=section3&amp;rev=1498678951&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-28T19:42:31+00:00</dc:date>
+        <title>section3</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=section3&amp;rev=1498678951&amp;do=diff</link>
+        <description>Section 3
+
+Personnel Policy Manual
+
+	*  Employee Policy Manual 9-2012
+
+General Manager Job Description
+
+	*  GM Job Description
+
+GM Evaluation Forms
+
+	*  Self-Evaluation Form
+	*  Board Evaluation Form
+	*  &lt;TODO: ask Joe where Bonus program doc is&gt;
+
+GM Goals
+
+	*  GM Goals 2016
+
+Organization Chart
+
+	*  Org Chart v2014</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=section4&amp;rev=1498749972&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-06-29T15:26:12+00:00</dc:date>
+        <title>section4</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=section4&amp;rev=1498749972&amp;do=diff</link>
+        <description>Section 4
+
+The Seven Cooperative Principals
+
+Cooperatives around the world generally operate according to the same core principles and
+values, adopted by the International Cooperative Alliance in 1995. The International Cooperative
+Alliance is a global membership association of co-ops and co-op support organizations.
+Cooperatives trace the roots of these principles to the first modern cooperative founded in
+Rochdale, England in 1844.</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=section5&amp;rev=1502285072&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-08-09T13:24:32+00:00</dc:date>
+        <title>section5</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=section5&amp;rev=1502285072&amp;do=diff</link>
+        <description>Section 5
+
+Portrait of an Ideal Board Member
+
+	*  Portrait of an Ideal Board Member
+
+Co-op Board of Directors Questionnaire
+
+	*  Questionnaire
+
+Criteria for Separating Board/GM Responsibilities
+
+	*  Criteria for Separating Board/GM Responsibilities
+
+Qualifications and Responsibilities of Individual Board Members
+
+	*  Qualifications and Responsibilities of Individual Board Members
+
+Legal Duties and Responsibilities of Co-op Board Members</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=sidebar&amp;rev=1504702691&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-06T12:58:11+00:00</dc:date>
+        <title>sidebar</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=sidebar&amp;rev=1504702691&amp;do=diff</link>
+        <description>Start
+
+	*  Principals
+	*  History
+	*  Bylaws
+	*  Board Member Handbook 
+	*  Special Notices</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=special_notices&amp;rev=1504703377&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-09-06T13:09:37+00:00</dc:date>
+        <title>special_notices</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=special_notices&amp;rev=1504703377&amp;do=diff</link>
+        <description>Original Posting Date: 2017-09-06
+
+Bylaw Change to Implement Patronage Dividends
+
+Next month, member-owners will  receive notice of a special meeting to implement something called “patronage dividends.” What are patronage dividends, and why is the Co-op Board recommending member-owners implement this change to the bylaws?
+Before we get to that question, it’s important to note that patronage dividends do not replace your member discount. The current Board is committed to retaining the member disc…</description>
+    </item>
+    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=start&amp;rev=1507304023&amp;do=diff">
+        <dc:format>text/html</dc:format>
+        <dc:date>2017-10-06T15:33:43+00:00</dc:date>
+        <title>start</title>
+        <link>http://potsdamcoop.com/wiki/doku.php?id=start&amp;rev=1507304023&amp;do=diff</link>
+        <description>Welcome to the Potsdam Co-op Board Wiki! Here you can find information regarding the Co-op's history as well as member-related information.
+
+Oversight of this wiki is the responsibility of the IT Committee and any questions/concerns should be emailed to [itlist at potsdamcoop dot com].</description>
+    </item>
+</rdf:RDF>

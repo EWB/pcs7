@@ -1,15 +1,3 @@
-==== Potsdam Food Co-Op Board Member Notebook ====
-  * Governing Documents
-    * [[Bylaws]]
-    * [[Board Policy Manual]]
-    * [[Mission Statement]]
-    * [[Board Calendar]]
-  * Manuals
-    * [[Employee Manual]]
-    * [[Personnel Policy]]
-    * [[Volunteer Manual]]
-  * Misc. Documents
-    * [[Board Contact List]]
-    * [[Seven Cooperative Principles]]
-    * [[Early Origins of Cooperatives]]
-    * [[Co-Ops and Investor-owned Corporations Compared]]
+Welcome to the Potsdam Co-op Board Wiki! Here you can find information regarding the Co-op's history as well as member-related information.
+
+Oversight of this wiki is the responsibility of the IT Committee and any questions/concerns should be emailed to [itlist at potsdamcoop dot com].
