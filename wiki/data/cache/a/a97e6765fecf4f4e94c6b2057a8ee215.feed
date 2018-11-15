@@ -11,7 +11,7 @@
         <description></description>
         <link>http://potsdamcoop.com/wiki/</link>
         <image rdf:resource="http://potsdamcoop.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2018-01-19T13:45:03+00:00</dc:date>
+       <dc:date>2018-04-14T11:07:03+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff"/>

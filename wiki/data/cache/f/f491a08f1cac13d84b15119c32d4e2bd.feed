@@ -11,7 +11,7 @@
         <description></description>
         <link>http://potsdamcoop.com/wiki/</link>
         <image rdf:resource="http://potsdamcoop.com/wiki/lib/tpl/dokuwiki/images/favicon.ico" />
-       <dc:date>2018-01-19T13:43:31+00:00</dc:date>
+       <dc:date>2018-04-14T10:41:32+00:00</dc:date>
         <items>
             <rdf:Seq>
                 <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=start&amp;rev=1507304023&amp;do=diff"/>
@@ -19,7 +19,6 @@
                 <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=sidebar&amp;rev=1504702691&amp;do=diff"/>
                 <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=history&amp;rev=1502968812&amp;do=diff"/>
                 <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff"/>
-                <rdf:li rdf:resource="http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff"/>
             </rdf:Seq>
         </items>
     </channel>
@@ -80,19 +79,5 @@ Before we get to that question, it’s important to note that patronage dividend
         <title>bylaws</title>
         <link>http://potsdamcoop.com/wiki/doku.php?id=bylaws&amp;rev=1502968393&amp;do=diff</link>
         <description>Bylaws, Effective February 2013 - as approved at the February 7, 2013 Annual Membership Meeting.</description>
-    </item>
-    <item rdf:about="http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff">
-        <dc:format>text/html</dc:format>
-        <dc:date>2017-08-10T12:42:52+00:00</dc:date>
-        <dc:creator>admin</dc:creator>
-        <title>principals - created</title>
-        <link>http://potsdamcoop.com/wiki/doku.php?id=principals&amp;rev=1502368972&amp;do=diff</link>
-        <description>The Seven Cooperative Principals
-
-Cooperatives around the world generally operate according to the same core principles and
-values, adopted by the International Cooperative Alliance in 1995. The International Cooperative
-Alliance is a global membership association of co-ops and co-op support organizations.
-Cooperatives trace the roots of these principles to the first modern cooperative founded in
-Rochdale, England in 1844.</description>
     </item>
 </rdf:RDF>
